@@ -1,0 +1,98 @@
+{
+    "page": 1,
+    "title": "ac,ag",
+    "title_des": "do,move,drive 做；移动；推动",
+    "content": [
+        {
+            "title": "act",
+            "voice": "[ækt]",
+            "cn": [
+                "v.做事;行动;举止",
+                "n.行为;法案;(戏剧,表演)的一幕"
+            ],
+            "split": [
+                "[act]do做"
+            ]
+        },
+        {
+            "title": "active",
+            "voice": "[ˈæktɪv]",
+            "cn": [
+                "adj.活跃的;积极的;起作用的"
+            ],
+            "split": [
+                "[ac]do做",
+                "[-tive]形容词后缀"
+            ]
+        },
+        {
+            "title": "agile",
+            "voice": "[ˈædʒl]",
+            "cn": [
+                "adj.灵活的;敏捷的"
+            ],
+            "split": [
+                "[ag]move移动",
+                "[-ile]形容词后缀"
+            ]
+        },
+        {
+            "title": "ambiguous",
+            "voice": "[æmˈbɪɡjuəs]",
+            "cn": [
+                "adj.含糊不清的"
+            ],
+            "split": [
+                "[ambi-]bothways两边",
+                "[(a)g]drive,lead通往",
+                "[-uous]形容词后缀"
+            ]
+        },
+        {
+            "title": "antagonist",
+            "voice": "[ænˈtæɡənɪst]",
+            "cn": [
+                "n.对立者、敌手"
+            ],
+            "split": [
+                "[ant(i)-]against反",
+                "[agon]drive推动",
+                "[ist]行为者"
+            ]
+        },
+        {
+            "title": "cogent",
+            "voice": "[ˈkoʊdʒənt]",
+            "cn": [
+                "adj.有说服力的"
+            ],
+            "split": [
+                "[co-]together一起",
+                "[(a)g]drive推动"
+            ]
+        },
+        {
+            "title": "exact",
+            "voice": "[ɪɡˈzækt]",
+            "cn": [
+                "adj.精准的;准确的"
+            ],
+            "split": [
+                "[ex-]thoroughly彻底",
+                "[act]-act推动"
+            ]
+        },
+        {
+            "title": "transaction",
+            "voice": "[trænˈzækʃn]",
+            "cn": [
+                "n.交易;业务;买卖"
+            ],
+            "split": [
+                "[trans-]across从一边到另一边",
+                "[ac]drive,do推动",
+                "[-tion]名词后缀"
+            ]
+        }
+    ]
+}

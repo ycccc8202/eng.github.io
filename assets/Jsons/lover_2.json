@@ -1,0 +1,97 @@
+{
+    "page": 2,
+    "title": "ambul,amble",
+    "title_des": "walk行走;移动",
+    "content": [
+        {
+            "title": "ambulance",
+            "voice": "[ˈæmbjələns]",
+            "cn": [
+                "n.救护车"
+            ],
+            "split": [
+                "[ambul]walk走路",
+                "[-ance]名词后缀"
+            ]
+        },
+        {
+            "title": "amble",
+            "voice": "[ˈæmbl]",
+            "cn": [
+                "v.缓行;漫步"
+            ],
+            "split": [
+                "[amble]walk走路"
+            ]
+        },
+        {
+            "title": "ambulatory",
+            "voice": "[ˈæmbjələtɔːri]",
+            "cn": [
+                "adj.(适用于)步行的;非固定的;可移动的;流动的"
+            ],
+            "split": [
+                "[ambulant]能走动的;不需卧床的",
+                "[-ory]形容词后缀"
+            ]
+        },
+        {
+            "title": "circumambulate",
+            "voice": "[ˌsə:kəmˈæmbjuleit]",
+            "cn": [
+                "v.环绕着走;巡行;转弯抹角地说"
+            ],
+            "split": [
+                "[circum]around环绕",
+                "[ambul]walk走路",
+                "[-ate]动词后缀"
+            ]
+        },
+        {
+            "title": "perambulation",
+            "voice": "[pəˌræmbjuˈleɪʃn]",
+            "cn": [
+                "n.漫步;散步;溜弯;兜风"
+            ],
+            "split": [
+                "[per]穿越",
+                "[ambul]走",
+                "[-tion]名词后缀"
+            ]
+        },
+        {
+            "title": "preamble",
+            "voice": "[ˈpriːæmbl]",
+            "cn": [
+                "n.序言;开场白"
+            ],
+            "split": [
+                "[pre-]before前面",
+                "[amble]walk"
+            ]
+        },
+        {
+            "title": "somnambulist",
+            "voice": "[sɑːmˈnæmbjəlɪst]",
+            "cn": [
+                "n.梦游者;梦游症患者"
+            ],
+            "split": [
+                "[somn]sleep睡着",
+                "[ambul]walk走",
+                "[-ist]行为者"
+            ]
+        },
+        {
+            "title": "ramble",
+            "voice": "[ˈræmbl]",
+            "cn": [
+                "v.无目的地漫游;闲聊; 瞎扯"
+            ],
+            "split": [
+                "[r(re)-]back向后",
+                "[amble]walk走"
+            ]
+        }
+    ]
+}

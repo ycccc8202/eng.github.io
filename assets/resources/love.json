@@ -1,0 +1,116 @@
+{
+    "pages": [
+        {
+            "page": 1,
+            "title": "ac,ag",
+            "title_des": "do,move,drive 做；移动；推动",
+            "content": [
+                {
+                    "title": "act",
+                    "voice": "[ækt]",
+                    "cn": "v.做事;行动;举止\nn.行为;法案;(戏剧,表演)的一幕",
+                    "split": "[act]do做"
+                },
+                {
+                    "title": "active",
+                    "voice": "[ˈæktɪv]",
+                    "cn": "adj.活跃的;积极的;起作用的",
+                    "split": ""
+                },
+                {
+                    "title": "agile",
+                    "voice": "[ˈædʒl]",
+                    "cn": "adj.灵活的;敏捷的",
+                    "split": ""
+                },
+                {
+                    "title": "ambiguous",
+                    "voice": "[æmˈbɪɡjuəs]",
+                    "cn": "adj.含糊不清的",
+                    "split": "[ambi-]bothways两边\n[(a)g]drive,lead通往\n[-uous]形容词后缀"
+                },
+                null,
+                {
+                    "title": "antagonist",
+                    "voice": "[ænˈtæɡənɪst]",
+                    "cn": "",
+                    "split": ""
+                },
+                {
+                    "title": "cogent",
+                    "voice": "[ˈkoʊdʒənt]",
+                    "cn": "",
+                    "split": ""
+                },
+                {
+                    "title": "exact",
+                    "voice": "[ɪɡˈzækt]",
+                    "cn": "",
+                    "split": ""
+                },
+                {
+                    "title": "transaction",
+                    "voice": "[trænˈzækʃn]",
+                    "cn": "n.交易;业务;买卖",
+                    "split": "[trans-]across从一边到另一边\n[ac]drive,do推动\n[-tion]名词后缀"
+                }
+            ]
+        },
+        {
+            "page": 2,
+            "title": "bc,bg",
+            "title_des": "do,move,drive 做；移动；推动",
+            "content": [
+                {
+                    "title": "act",
+                    "voice": "[ækt]",
+                    "cn": "v.做事;行动;举止\nn.行为;法案;(戏剧,表演)的一幕",
+                    "split": "[act]do做"
+                },
+                {
+                    "title": "active",
+                    "voice": "[ˈæktɪv]",
+                    "cn": "adj.活跃的;积极的;起作用的",
+                    "split": ""
+                },
+                {
+                    "title": "agile",
+                    "voice": "[ˈædʒl]",
+                    "cn": "adj.灵活的;敏捷的",
+                    "split": ""
+                },
+                {
+                    "title": "ambiguous",
+                    "voice": "[æmˈbɪɡjuəs]",
+                    "cn": "adj.含糊不清的",
+                    "split": "[ambi-]bothways两边\n[(a)g]drive,lead通往\n[-uous]形容词后缀"
+                },
+                null,
+                {
+                    "title": "antagonist",
+                    "voice": "[ænˈtæɡənɪst]",
+                    "cn": "",
+                    "split": ""
+                },
+                {
+                    "title": "cogent",
+                    "voice": "[ˈkoʊdʒənt]",
+                    "cn": "",
+                    "split": ""
+                },
+                {
+                    "title": "exact",
+                    "voice": "[ɪɡˈzækt]",
+                    "cn": "",
+                    "split": ""
+                },
+                {
+                    "title": "transaction",
+                    "voice": "[trænˈzækʃn]",
+                    "cn": "n.交易;业务;买卖",
+                    "split": "[trans-]across从一边到另一边\n[ac]drive,do推动\n[-tion]名词后缀"
+                }
+            ]
+        }
+    ]
+}
